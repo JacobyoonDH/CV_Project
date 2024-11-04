@@ -1,0 +1,6 @@
+*.ipynb filter=clearoutput
+__pycache__/
+*/__pycache__/
+*/PACS/
+PACS/
+*.pth
